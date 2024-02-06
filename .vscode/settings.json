@@ -4,7 +4,8 @@
         {
             "format": "compressed",
             "extensionName": ".css",
-            "savePath": "./dist/css"
+           // "savePath": "./dist/css"
+           "savePath": "/../luya-kickstarter-bootstrap4/themes/cakeBaker/dist/css"
         }
     ],
     "liveSassCompile.settings.includeItems": [
